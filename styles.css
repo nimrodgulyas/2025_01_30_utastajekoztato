@@ -4,8 +4,14 @@ table, th, td {
   }
 
 table {
-    width: 80%;
-    background-color:rgb(26, 167, 68);
-    color:rgb(0, 0, 0);
+    width: 80%; /* weboldal szélessége */
+    background-color:rgb(26, 167, 68); /* háttérszín */
+    color:rgb(255, 255, 255); /* betűszín */
+    font-family: 'Courier New'; /* betűtípus */
+    font-size: 25px; /* betűméret */
 }
   
+
+th {
+    background-color: black;
+}
