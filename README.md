@@ -8,7 +8,7 @@ Ez a projekt egy egyszerű webes felület, arra próbáltam törekedni, hogy a M
 - 🚉 Induló és érkező vonatok listázása táblázatban
 - ⏰ Állomás, indulási és érkezési idők megjelenítése
 
-### 🚀 Használat
+### 💡 Használat
 Egyszerűen nyisd meg a `https://github.com/nimrodgulyas/2025_01_30_utastajekoztato` weboldalt a böngészőben, és a rendszer betölti az aktuális adatokat.
 #### 🍰 Élő demó
 
