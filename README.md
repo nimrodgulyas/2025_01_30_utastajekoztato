@@ -14,7 +14,7 @@ Egyszerűen nyisd meg a `https://github.com/nimrodgulyas/2025_01_30_utastajekozt
 
 A projekt élőben megtekinthető az alábbi linken:  
 [🔗 MÁV Utastájékoztató](https://github.com/nimrodgulyas/2025_01_30_utastajekoztato/)
-### 🏗️ Alap HTML szerkezet
+###  Alap HTML szerkezet
 ```html
 <!DOCTYPE html>
 <html lang="hu">
